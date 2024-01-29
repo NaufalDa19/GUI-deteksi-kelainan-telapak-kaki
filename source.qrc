@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logoTelU2.png</file>
+    <file>logoKedaireka.png</file>
+    <file>logoMV.png</file>
+    <file>logoTelU.png</file>
+  </qresource>
+</RCC>
